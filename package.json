@@ -1,0 +1,12 @@
+{
+    "name": "RAGU",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-3DK2RDJ.json",
+            "credentialsFile": "flows_DESKTOP-3DK2RDJ_cred.json"
+        }
+    }
+}
